@@ -4,6 +4,7 @@
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0013-roman-to-integer) |
 | [0231-power-of-two](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0509-fibonacci-number) |
 ## Bit Manipulation
@@ -47,8 +48,13 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0013-roman-to-integer) |
 ## Simulation
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/bhatnagar-arnav/Leet-code/tree/master/1929-concatenation-of-array) |
+## String
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
