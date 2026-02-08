@@ -49,6 +49,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0013-roman-to-integer) |
+| [0205-isomorphic-strings](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0205-isomorphic-strings) |
 ## Simulation
 |  |
 | ------- |
@@ -57,4 +58,5 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0013-roman-to-integer) |
+| [0205-isomorphic-strings](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0205-isomorphic-strings) |
 <!---LeetCode Topics End-->
