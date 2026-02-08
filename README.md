@@ -23,4 +23,12 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0509-fibonacci-number) |
+## Array
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0283-move-zeroes) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
