@@ -34,6 +34,7 @@
 | [0088-merge-sorted-array](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0283-move-zeroes](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0283-move-zeroes) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1929-concatenation-of-array](https://github.com/bhatnagar-arnav/Leet-code/tree/master/1929-concatenation-of-array) |
 ## Two Pointers
 |  |
@@ -43,16 +44,19 @@
 | [0088-merge-sorted-array](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0344-reverse-string) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0088-merge-sorted-array) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0013-roman-to-integer) |
 | [0205-isomorphic-strings](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0205-isomorphic-strings) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -68,4 +72,8 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Binary Search
+|  |
+| ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0350-intersection-of-two-arrays-ii) |
 <!---LeetCode Topics End-->
