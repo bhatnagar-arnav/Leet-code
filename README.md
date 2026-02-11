@@ -35,6 +35,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0283-move-zeroes](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0867-transpose-matrix](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0867-transpose-matrix) |
 | [1929-concatenation-of-array](https://github.com/bhatnagar-arnav/Leet-code/tree/master/1929-concatenation-of-array) |
 ## Two Pointers
 |  |
@@ -60,6 +61,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0867-transpose-matrix](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0867-transpose-matrix) |
 | [1929-concatenation-of-array](https://github.com/bhatnagar-arnav/Leet-code/tree/master/1929-concatenation-of-array) |
 ## String
 |  |
@@ -76,4 +78,8 @@
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0350-intersection-of-two-arrays-ii) |
+## Matrix
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
