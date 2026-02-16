@@ -7,6 +7,7 @@
 | [0009-palindrome-number](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0048-rotate-image) |
+| [0189-rotate-array](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0509-fibonacci-number) |
 ## Bit Manipulation
@@ -37,6 +38,7 @@
 | [0073-set-matrix-zeroes](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0189-rotate-array](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0766-toeplitz-matrix](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0766-toeplitz-matrix) |
@@ -48,6 +50,7 @@
 | [0027-remove-element](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0344-reverse-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0350-intersection-of-two-arrays-ii) |
