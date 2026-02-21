@@ -61,6 +61,7 @@
 | [0283-move-zeroes](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0344-reverse-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0876-middle-of-the-linked-list](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0876-middle-of-the-linked-list) |
 ## Sorting
 |  |
 | ------- |
@@ -121,4 +122,8 @@
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0918-maximum-sum-circular-subarray) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
