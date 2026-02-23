@@ -17,6 +17,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
@@ -125,5 +126,6 @@
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
