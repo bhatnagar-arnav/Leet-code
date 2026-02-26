@@ -59,6 +59,7 @@
 | [0027-remove-element](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0088-merge-sorted-array) |
+| [0142-linked-list-cycle-ii](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0142-linked-list-cycle-ii) |
 | [0189-rotate-array](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0344-reverse-string) |
@@ -76,6 +77,7 @@
 | [0001-two-sum](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0073-set-matrix-zeroes) |
+| [0142-linked-list-cycle-ii](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0142-linked-list-cycle-ii) |
 | [0205-isomorphic-strings](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0205-isomorphic-strings) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Simulation
@@ -127,6 +129,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0142-linked-list-cycle-ii](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0142-linked-list-cycle-ii) |
 | [0203-remove-linked-list-elements](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0876-middle-of-the-linked-list) |
