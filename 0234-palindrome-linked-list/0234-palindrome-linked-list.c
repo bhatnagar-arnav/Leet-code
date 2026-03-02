@@ -41,9 +41,3 @@ bool isPalindrome(struct ListNode* head) {
 
     return result;
 }
-struct ListNode* newNode(int val) {
-    struct ListNode* node = (struct ListNode*)malloc(sizeof(struct ListNode));
-    node->val = val;
-    node->next = NULL;
-    return node;
-}
