@@ -94,6 +94,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0344-reverse-string) |
@@ -147,5 +148,6 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
