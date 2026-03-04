@@ -55,6 +55,7 @@
 | [0766-toeplitz-matrix](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0867-transpose-matrix) |
 | [0918-maximum-sum-circular-subarray](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0918-maximum-sum-circular-subarray) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/bhatnagar-arnav/Leet-code/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1929-concatenation-of-array](https://github.com/bhatnagar-arnav/Leet-code/tree/master/1929-concatenation-of-array) |
 ## Two Pointers
 |  |
@@ -115,6 +116,7 @@
 | [0073-set-matrix-zeroes](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0073-set-matrix-zeroes) |
 | [0766-toeplitz-matrix](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0867-transpose-matrix) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/bhatnagar-arnav/Leet-code/tree/master/1582-special-positions-in-a-binary-matrix) |
 ## Divide and Conquer
 |  |
 | ------- |
