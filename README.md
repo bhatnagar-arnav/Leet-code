@@ -52,6 +52,7 @@
 | [0238-product-of-array-except-self](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0485-max-consecutive-ones](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0485-max-consecutive-ones) |
 | [0766-toeplitz-matrix](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0867-transpose-matrix) |
 | [0918-maximum-sum-circular-subarray](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0918-maximum-sum-circular-subarray) |
