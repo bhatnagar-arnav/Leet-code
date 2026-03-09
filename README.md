@@ -8,6 +8,7 @@
 | [0009-palindrome-number](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0048-rotate-image) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0231-power-of-two) |
 | [0445-add-two-numbers-ii](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0445-add-two-numbers-ii) |
@@ -48,6 +49,7 @@
 | [0073-set-matrix-zeroes](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0283-move-zeroes) |
@@ -155,6 +157,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0020-valid-parentheses) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0445-add-two-numbers-ii) |
