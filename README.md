@@ -55,6 +55,7 @@
 | [0238-product-of-array-except-self](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0283-move-zeroes) |
+| [0347-top-k-frequent-elements](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0485-max-consecutive-ones](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0485-max-consecutive-ones) |
 | [0641-design-circular-deque](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0641-design-circular-deque) |
@@ -82,6 +83,7 @@
 | ------- |
 | [0015-3sum](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0088-merge-sorted-array) |
+| [0347-top-k-frequent-elements](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Hash Table
 |  |
@@ -91,6 +93,7 @@
 | [0073-set-matrix-zeroes](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0073-set-matrix-zeroes) |
 | [0142-linked-list-cycle-ii](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0142-linked-list-cycle-ii) |
 | [0205-isomorphic-strings](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0205-isomorphic-strings) |
+| [0347-top-k-frequent-elements](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Simulation
 |  |
@@ -128,6 +131,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0053-maximum-subarray) |
+| [0347-top-k-frequent-elements](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0347-top-k-frequent-elements) |
 | [0918-maximum-sum-circular-subarray](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0918-maximum-sum-circular-subarray) |
 ## Prefix Sum
 |  |
@@ -187,6 +191,7 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0239-sliding-window-maximum) |
+| [0347-top-k-frequent-elements](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0347-top-k-frequent-elements) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Binary Tree
 |  |
@@ -200,4 +205,16 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0239-sliding-window-maximum) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
