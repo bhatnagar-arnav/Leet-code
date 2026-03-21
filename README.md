@@ -58,6 +58,7 @@
 | [0347-top-k-frequent-elements](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0485-max-consecutive-ones](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0485-max-consecutive-ones) |
+| [0621-task-scheduler](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0621-task-scheduler) |
 | [0641-design-circular-deque](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0641-design-circular-deque) |
 | [0739-daily-temperatures](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0739-daily-temperatures) |
 | [0766-toeplitz-matrix](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0766-toeplitz-matrix) |
@@ -86,6 +87,7 @@
 | [0088-merge-sorted-array](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0088-merge-sorted-array) |
 | [0347-top-k-frequent-elements](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0621-task-scheduler](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0621-task-scheduler) |
 ## Hash Table
 |  |
 | ------- |
@@ -96,6 +98,7 @@
 | [0205-isomorphic-strings](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0205-isomorphic-strings) |
 | [0347-top-k-frequent-elements](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0621-task-scheduler](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0621-task-scheduler) |
 ## Simulation
 |  |
 | ------- |
@@ -194,6 +197,7 @@
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0621-task-scheduler) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Binary Tree
 |  |
@@ -215,6 +219,7 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0621-task-scheduler) |
 ## Quickselect
 |  |
 | ------- |
@@ -223,4 +228,8 @@
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0739-daily-temperatures) |
+## Greedy
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0621-task-scheduler) |
 <!---LeetCode Topics End-->
