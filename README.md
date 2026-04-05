@@ -197,6 +197,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0144-binary-tree-preorder-traversal) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0404-sum-of-left-leaves) |
 | [0700-search-in-a-binary-search-tree](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -224,6 +225,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0144-binary-tree-preorder-traversal) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0404-sum-of-left-leaves) |
 | [0700-search-in-a-binary-search-tree](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -265,6 +267,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0144-binary-tree-preorder-traversal) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0404-sum-of-left-leaves) |
 ## Breadth-First Search
 |  |
