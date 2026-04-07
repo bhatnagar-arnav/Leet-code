@@ -19,7 +19,7 @@ int** zigzagLevelOrder(struct TreeNode* root, int* returnSize, int** returnColum
         return NULL;
     }
 
-    int capacity = 10000; 
+    int capacity = 2001; 
     int** result = (int**)malloc(sizeof(int*) * capacity);
     *returnColumnSizes = (int*)malloc(sizeof(int) * capacity);
     *returnSize = 0;
