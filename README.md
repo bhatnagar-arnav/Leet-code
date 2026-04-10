@@ -51,6 +51,7 @@
 | [0073-set-matrix-zeroes](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0189-rotate-array) |
@@ -99,6 +100,7 @@
 | [0013-roman-to-integer](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0142-linked-list-cycle-ii](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0142-linked-list-cycle-ii) |
 | [0205-isomorphic-strings](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0205-isomorphic-strings) |
 | [0347-top-k-frequent-elements](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0347-top-k-frequent-elements) |
@@ -141,6 +143,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0347-top-k-frequent-elements](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0347-top-k-frequent-elements) |
 | [0918-maximum-sum-circular-subarray](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0918-maximum-sum-circular-subarray) |
 ## Prefix Sum
@@ -204,6 +207,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0199-binary-tree-right-side-view) |
@@ -238,6 +242,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0199-binary-tree-right-side-view) |
