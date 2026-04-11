@@ -68,6 +68,7 @@
 | [0766-toeplitz-matrix](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0867-transpose-matrix) |
 | [0918-maximum-sum-circular-subarray](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0918-maximum-sum-circular-subarray) |
+| [0994-rotting-oranges](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0994-rotting-oranges) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/bhatnagar-arnav/Leet-code/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1929-concatenation-of-array](https://github.com/bhatnagar-arnav/Leet-code/tree/master/1929-concatenation-of-array) |
 ## Two Pointers
@@ -139,6 +140,7 @@
 | [0733-flood-fill](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0733-flood-fill) |
 | [0766-toeplitz-matrix](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0867-transpose-matrix) |
+| [0994-rotting-oranges](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0994-rotting-oranges) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/bhatnagar-arnav/Leet-code/tree/master/1582-special-positions-in-a-binary-matrix) |
 ## Divide and Conquer
 |  |
@@ -313,6 +315,7 @@
 | [0547-number-of-provinces](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0733-flood-fill) |
 | [0841-keys-and-rooms](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0841-keys-and-rooms) |
+| [0994-rotting-oranges](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0994-rotting-oranges) |
 ## Union-Find
 |  |
 | ------- |
