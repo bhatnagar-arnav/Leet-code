@@ -315,6 +315,7 @@
 | [0787-cheapest-flights-within-k-stops](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0841-keys-and-rooms](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0841-keys-and-rooms) |
 | [0968-binary-tree-cameras](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0968-binary-tree-cameras) |
+| [1192-critical-connections-in-a-network](https://github.com/bhatnagar-arnav/Leet-code/tree/master/1192-critical-connections-in-a-network) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -354,6 +355,7 @@
 | [0785-is-graph-bipartite](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0841-keys-and-rooms](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0841-keys-and-rooms) |
+| [1192-critical-connections-in-a-network](https://github.com/bhatnagar-arnav/Leet-code/tree/master/1192-critical-connections-in-a-network) |
 | [1584-min-cost-to-connect-all-points](https://github.com/bhatnagar-arnav/Leet-code/tree/master/1584-min-cost-to-connect-all-points) |
 ## Topological Sort
 |  |
@@ -369,4 +371,8 @@
 |  |
 | ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/bhatnagar-arnav/Leet-code/tree/master/1584-min-cost-to-connect-all-points) |
+## Biconnected Component
+|  |
+| ------- |
+| [1192-critical-connections-in-a-network](https://github.com/bhatnagar-arnav/Leet-code/tree/master/1192-critical-connections-in-a-network) |
 <!---LeetCode Topics End-->
