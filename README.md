@@ -65,6 +65,7 @@
 | [0485-max-consecutive-ones](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0485-max-consecutive-ones) |
 | [0621-task-scheduler](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0621-task-scheduler) |
 | [0641-design-circular-deque](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0641-design-circular-deque) |
+| [0704-binary-search](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0739-daily-temperatures) |
 | [0766-toeplitz-matrix](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0766-toeplitz-matrix) |
@@ -135,6 +136,7 @@
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0704-binary-search](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0704-binary-search) |
 ## Matrix
 |  |
 | ------- |
