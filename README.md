@@ -47,6 +47,7 @@
 | [0001-two-sum](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0027-remove-element) |
+| [0033-search-in-rotated-sorted-array](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0053-maximum-subarray) |
@@ -136,6 +137,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0035-search-insert-position) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0704-binary-search](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0704-binary-search) |
