@@ -58,6 +58,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0162-find-peak-element](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0239-sliding-window-maximum) |
@@ -139,6 +140,7 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0035-search-insert-position) |
+| [0162-find-peak-element](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0162-find-peak-element) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0704-binary-search](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0704-binary-search) |
 ## Matrix
