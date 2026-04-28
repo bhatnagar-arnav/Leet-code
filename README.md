@@ -75,6 +75,7 @@
 | [0739-daily-temperatures](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0739-daily-temperatures) |
 | [0766-toeplitz-matrix](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0867-transpose-matrix) |
+| [0875-koko-eating-bananas](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0875-koko-eating-bananas) |
 | [0918-maximum-sum-circular-subarray](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0918-maximum-sum-circular-subarray) |
 | [0994-rotting-oranges](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0994-rotting-oranges) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/bhatnagar-arnav/Leet-code/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -147,6 +148,7 @@
 | [0162-find-peak-element](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0162-find-peak-element) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0704-binary-search](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0875-koko-eating-bananas) |
 ## Matrix
 |  |
 | ------- |
