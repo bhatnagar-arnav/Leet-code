@@ -78,6 +78,7 @@
 | [0875-koko-eating-bananas](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0875-koko-eating-bananas) |
 | [0918-maximum-sum-circular-subarray](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0918-maximum-sum-circular-subarray) |
 | [0994-rotting-oranges](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0994-rotting-oranges) |
+| [1552-magnetic-force-between-two-balls](https://github.com/bhatnagar-arnav/Leet-code/tree/master/1552-magnetic-force-between-two-balls) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/bhatnagar-arnav/Leet-code/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1584-min-cost-to-connect-all-points](https://github.com/bhatnagar-arnav/Leet-code/tree/master/1584-min-cost-to-connect-all-points) |
 | [1929-concatenation-of-array](https://github.com/bhatnagar-arnav/Leet-code/tree/master/1929-concatenation-of-array) |
@@ -105,6 +106,7 @@
 | [0347-top-k-frequent-elements](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0621-task-scheduler](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0621-task-scheduler) |
+| [1552-magnetic-force-between-two-balls](https://github.com/bhatnagar-arnav/Leet-code/tree/master/1552-magnetic-force-between-two-balls) |
 ## Hash Table
 |  |
 | ------- |
@@ -149,6 +151,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0704-binary-search](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0875-koko-eating-bananas) |
+| [1552-magnetic-force-between-two-balls](https://github.com/bhatnagar-arnav/Leet-code/tree/master/1552-magnetic-force-between-two-balls) |
 ## Matrix
 |  |
 | ------- |
