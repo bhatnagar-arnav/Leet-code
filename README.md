@@ -78,6 +78,7 @@
 | [0875-koko-eating-bananas](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0875-koko-eating-bananas) |
 | [0918-maximum-sum-circular-subarray](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0918-maximum-sum-circular-subarray) |
 | [0994-rotting-oranges](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0994-rotting-oranges) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/bhatnagar-arnav/Leet-code/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1552-magnetic-force-between-two-balls](https://github.com/bhatnagar-arnav/Leet-code/tree/master/1552-magnetic-force-between-two-balls) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/bhatnagar-arnav/Leet-code/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1584-min-cost-to-connect-all-points](https://github.com/bhatnagar-arnav/Leet-code/tree/master/1584-min-cost-to-connect-all-points) |
@@ -151,6 +152,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0704-binary-search](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0875-koko-eating-bananas) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/bhatnagar-arnav/Leet-code/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1552-magnetic-force-between-two-balls](https://github.com/bhatnagar-arnav/Leet-code/tree/master/1552-magnetic-force-between-two-balls) |
 ## Matrix
 |  |
