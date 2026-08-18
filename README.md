@@ -18,6 +18,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0231-power-of-two) |
 ## Recursion
 |  |
@@ -62,6 +63,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/bhatnagar-arnav/Leet-code/tree/master/0162-find-peak-element) |
